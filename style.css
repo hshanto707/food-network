@@ -4,4 +4,52 @@
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
+    color: #828282;
 }
+
+/* FIRST SECTION */
+
+.flex-container {
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+}
+.half-width {
+    width: 50%;
+}
+.info {
+    margin-left: 100px;
+}
+h1 {
+    color: #575757;
+    font-size: 60px;
+    line-height: 75px;
+}
+.mark {
+    color: #FC8B47;
+}
+.half-width img {
+    width: 90%;
+}
+p {
+    margin: 30px 0;
+    font-size: 20px;
+    line-height: 35px;
+}
+.cta {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 7px;
+    background-image: linear-gradient(to right, #FC8B47,tomato);
+}
+
+
+
+
+
+
+/* ABOUT ME SECTION */
+/* MY RECIPIES SECTION */
