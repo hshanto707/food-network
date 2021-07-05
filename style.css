@@ -101,6 +101,7 @@ p {
     width: 87%;
     margin: auto;
     margin-top: 150px;
+    margin-bottom: 120px;
     padding: 50px 0;
     border-radius: 30px;
     box-shadow: 0px 0px 15px rgb(156, 155, 155);
@@ -110,4 +111,16 @@ p {
 }
 .box {
     margin: 0 80px;
+}
+
+/* FOOTER SECTION */
+
+footer {
+    background-color: #0B0E17;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+.footer-mark {
+    color: #FC8044;
 }
