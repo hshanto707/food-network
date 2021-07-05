@@ -59,10 +59,12 @@ p {
     padding-left: 100px;
 }
 h2 {
+    color: #575757;
     font-size: 40px;
 }
 .about-me p {
-    margin-bottom: 100px;
+    margin-bottom: 90px;
+    padding-right: 100px;
 }
 
 
