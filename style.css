@@ -42,14 +42,28 @@ p {
     color: white;
     font-size: 18px;
     font-weight: bold;
-    border-radius: 7px;
+    border-radius: 50px;
     background-image: linear-gradient(to right, #FC8B47,tomato);
 }
 
-
-
-
-
-
 /* ABOUT ME SECTION */
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-me img {
+    width: 40%;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+h2 {
+    font-size: 40px;
+}
+.about-me p {
+    margin-bottom: 100px;
+}
+
+
 /* MY RECIPIES SECTION */
